@@ -18,7 +18,8 @@ And of course this landing page itself is open source with a [public repository]
 this landing page just need newest version browser, im recommended using chrome latest
 
 ```sh
-git clone https://github.com/mazc0de/landing-page-traditional-game.git
+$ git clone https://github.com/mazc0de/landing-page-traditional-game.git
+
 open index.html
 ```
 
